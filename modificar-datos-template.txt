@@ -1,0 +1,11 @@
+pom.xml
+	groupId = empresa que desarrola el produto
+		ej: com.facebook.messenger
+	artifactId = nombre del producto y ejecutable
+		ej: messenger 
+	name = nombre del producto
+		ej: messenger
+
+src/main/webapp/META-INF/context.xml
+	Context = domino de la aplicacion en el servidor web
+		ej: facebook
